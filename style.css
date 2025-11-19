@@ -1,0 +1,23 @@
+body {
+    font-size: 16px;
+    color: #333;
+    padding: 0;
+    margin: 0;
+    background-color: antiquewhite;
+    
+}
+
+header {
+   width: 100%;
+   padding: 10px 20px;
+}
+.wrapper {
+   width: 1200px;
+   margin: 0 auto;
+}
+
+section .banner {
+   width: 100vw;
+   height: 100vh;
+   background-color: #fd8f6b;
+}
